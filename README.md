@@ -1,15 +1,15 @@
 # GitByGraph
 
-• Users can view the github prole of anyone in more interactive
+• Users can view the github profile of anyone in more interactive
 manner
-• User can view dierent programming languages used by person
+• User can view different programming languages used by person
 through piechart,forked repos and starred repos through various
 types of charts.
 • Used Auth0 for authentication,React for Front-end and hosted on
 netlify .
 ## Deployment
 
-This project is live and hosted on [link](https://alumni-connect-ba161.web.app/)
+This project is live and hosted on [link](https://gitbygraph.netlify.app/)
 ## Available Scripts
 
 In the project directory, you can run:
