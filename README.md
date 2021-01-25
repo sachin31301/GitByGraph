@@ -10,6 +10,11 @@ netlify .
 ## Deployment
 
 This project is live and hosted on [link](https://gitbygraph.netlify.app/)
+
+## Screenshots
+![Screenshot (242)](https://user-images.githubusercontent.com/59499244/105729474-45a07500-5f53-11eb-85ef-ddbe74c4b2d0.png)
+![Screenshot (243)](https://user-images.githubusercontent.com/59499244/105729496-4b965600-5f53-11eb-9786-588e98be9b93.png)
+![Screenshot (244)](https://user-images.githubusercontent.com/59499244/105729509-4fc27380-5f53-11eb-857a-1f13ad0e3f6c.png)
 ## Available Scripts
 
 In the project directory, you can run:
